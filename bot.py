@@ -5,10 +5,10 @@ import schedule
 import time
 
 # Chaves da API do Twitter (substitua pelos seus valores!)
-consumer_key = "1crgiHG0rnPpysuhyBiNiGrlH"
-consumer_secret = "ptUXGUlhj7qcAULr9OQ4PUz6YDGysxhmPj52X2fvyKyJ8oRKtN"
-access_token = "1147191279891210241-466aXriwZgz7Y7ZhRQPWyEY9mgC1nH"
-access_token_secret = "wHNXLhHEZSjFUu6RMaNkvVgpkO5iOSnCCJxHD6UNI9y0s"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 # Configuração da API do Twitter
 def configurar_twitter_api():
